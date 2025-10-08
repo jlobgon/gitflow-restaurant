@@ -8,3 +8,4 @@ mostrarMesasDisponibles();
 } else {
 console.log("Acceso denegado ");
 }
+console.log("Finalizado")
